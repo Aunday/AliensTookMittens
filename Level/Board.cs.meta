@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 181064b5ba9479c4a9065469d139cb83
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gemPrefab: {fileID: 100048, guid: b8bcb96fa153a1142b7d1a815ed64ace, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
